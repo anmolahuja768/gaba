@@ -1,9 +1,12 @@
-# ignore dat file #
+#ignore dat file#
+
 
 *.dat
 
 
-# ignore paint files #
+
+#ignore paint files#
+
 
 *.jpg
 
