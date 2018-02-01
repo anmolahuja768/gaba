@@ -2,6 +2,8 @@
 
 
 
+// koi nahi
+// kya karna
 
 
 
@@ -30,7 +32,6 @@
 
 
 
-//kya baat hai
-// wah
+
 
 
