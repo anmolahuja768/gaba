@@ -1,0 +1,66 @@
+    1  mkdir
+    2  mkdir anmol
+    3  cd anmol
+    4  pwd
+    5  touch hello.c
+    6  git init
+    7  git status
+    8  git add hello.c
+    9  git status
+   10  git remote add origin https://github.com/anmolahuja768/repoo.git
+   11  git commit -m "woala"
+   12  git push -u origin master
+   13  git status
+   14  cd anmol
+   15  git init
+   16  mkdir src
+   17  cd src
+   18  mkdir files
+   19  cd files
+   20  vi readme.txt
+   21  cd src
+   22  \cd
+   23  cd anmol
+   24  cd src
+   25  vi hello.cpp
+   26  \cd
+   27  cd anmol
+   28  cd src
+   29  \cd
+   30  cd anmol
+   31  cd src
+   32  git status
+   33  git add .
+   34  git staus
+   35  git status
+   36  \cd
+   37  cd anmol
+   38  git remote add origin2 https://github.com/anmolahuja768/reploo.git
+   39  git push -u origin2
+   40  cd src
+   41  git commit -m "ok/////////////////"
+   42  git push -u origin2
+   43  \cd
+   44  cd src
+   45  git push -u origin
+   46  git --help
+   47  git remote rm origin2
+   48  git remote
+   49  git satus
+   50  git status
+   51  \cd 
+   52  cd anmol
+   53  git add .
+   54  git commit -u "modified"
+   55  git commit -m "modified"
+   56  git status
+   57  git push -u origin
+   58  git log
+   59  cd anmol
+   60  vi hello.c
+   61  git status
+   62  git add .
+   63  git status
+   64  git commit -m "yamero" 
+   65  git push
+   66  history > history.txt
