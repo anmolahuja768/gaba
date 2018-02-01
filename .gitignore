@@ -10,3 +10,6 @@
 
 *.jpg
 
+
+#ignore test folder#
+.test
